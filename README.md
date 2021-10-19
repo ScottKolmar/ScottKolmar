@@ -1,5 +1,5 @@
 # Hey! 👻🐱‍👤
-My name is Scott Kolmar, and I currently work for the United States Environmental Protection Agency. I have a PhD in inorganic chemistry from Yale with a focus on computational chemistry. I currently work in cheminformatics, computational toxicology, machine learning, statistics, and programming at the EPA. Please check out some of my projects! You can find me on LinkedIn: [![LinkedIn][1.2]][2]
+My name is Scott Kolmar, and I currently work for the United States Environmental Protection Agency. I have a PhD in inorganic chemistry from Yale with a focus on computational chemistry. I currently work in cheminformatics, computational toxicology, machine learning, statistics, and full stack programming at the EPA. Please check out some of my projects! You can find me on LinkedIn: [![LinkedIn][1.2]][2]
 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/MartinHeinz/ScottKolmar">
@@ -27,7 +27,10 @@ My name is Scott Kolmar, and I currently work for the United States Environmenta
 ![](https://img.shields.io/static/v1?label=Tools&message=Heroku&color=<success>&logo=heroku)
 ![](https://img.shields.io/static/v1?label=Tools&message=Scikit-learn&color=<success>&logo=scikitlearn)
 ![](https://img.shields.io/static/v1?label=Tools&message=Flask&color=<success>&logo=flask)
-![](https://img.shields.io/static/v1?label=Tools&message=Pandas&color=<success>&logo=pandas)
+![](https://img.shields.io/static/v1?label=Tools&message=Pandas&color=<success>&logo=pandas)\
+![](https://img.shields.io/static/v1?label=Tools&message=Jira&color=<success>&logo=jira)
+![](https://img.shields.io/static/v1?label=Tools&message=Confluence&color=<success>&logo=confluence)
+![](https://img.shields.io/static/v1?label=Tools&message=Bitbucket&color=<success>&logo=bitbucket)
 
 <!-- Icons -->
 [1.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
