@@ -1,6 +1,19 @@
 ### Scott Kolmar
+
+## &#x1f4c8; GitHub Stats
+<a href="https://github.com/MartinHeinz/ScottKolmar">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ScottKolmar&hide=java,html,text&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api?username=ScottKolmar&hide=java,html,text&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/MartinHeinz/ScottKolmar">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ScottKolmar&hide=java,html,text&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 [![ScottKolmar's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ScottKolmar&hide=java,html,text&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/ScottKolmar/github-readme-stats)
-[![ScottKolmar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ScottKolmar)](https://github.com/ScottKolmar/github-readme-stats)\
+[![ScottKolmar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ScottKolmar&hide=java,html,text&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/ScottKolmar/github-readme-stats)
+[![ScottKolmar's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=ScottKolmar&hide=java,html,text&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/ScottKolmar/github-readme-stats)\
+
+## 🔧 Technologies & Tools
 ![](https://img.shields.io/static/v1?label=OS&message=Linux&color=<success>&logo=linux)
 ![](https://img.shields.io/static/v1?label=Shell&message=Bash&color=<success>&logo=bash)
 ![](https://img.shields.io/static/v1?label=Editor&message=Visual_Studio_Code&color=<success>&logo=vsco)
