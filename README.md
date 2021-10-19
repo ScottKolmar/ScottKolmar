@@ -8,7 +8,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ScottKolmar&hide=java,html,text&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/ScottKolmar/OPERA-Prediction-API">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ScottKolmar&hide=java,html,text&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ScottKolmar&repo=OPERA-Prediction-API&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>\
 
 ## 🔧 Technologies & Tools
