@@ -1,5 +1,5 @@
 ### Scott Kolmar
-[![ScottKolmar's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ScottKolmar, tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/ScottKolmar/github-readme-stats)
+[![ScottKolmar's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ScottKolmar&hide=java,html,text&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/ScottKolmar/github-readme-stats)
 [![ScottKolmar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ScottKolmar)](https://github.com/ScottKolmar/github-readme-stats)\
 ![](https://img.shields.io/static/v1?label=OS&message=Linux&color=<success>&logo=linux)
 ![](https://img.shields.io/static/v1?label=Shell&message=Bash&color=<success>&logo=bash)
