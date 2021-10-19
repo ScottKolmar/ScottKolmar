@@ -16,7 +16,7 @@
 
 
 <!-- Actual text -->
-You can find me on LinkedIn[![LinkedIn][1.2]][2].
+You can find me on LinkedIn: [![LinkedIn][1.2]][2].
 <!-- Icons -->
 [1.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
 <!-- Links to your social media accounts -->
