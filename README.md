@@ -1,5 +1,8 @@
 ### Scott Kolmar
 
+# Hey! 👻🐱‍👤
+My name is Scott Kolmar, and I currently work for the United States Environmental Protection Agency. I have a PhD in inorganic chemistry from Yale with a focus on computational chemistry. I currently work in cheminformatics, machine learning, statistics, and programming at the EPA. Please check out some of my projects! You can find me on LinkedIn: [![LinkedIn][1.2]][2]
+
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/MartinHeinz/ScottKolmar">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ScottKolmar&hide=java,html,text&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
@@ -28,9 +31,6 @@
 ![](https://img.shields.io/static/v1?label=Tools&message=Flask&color=<success>&logo=flask)
 ![](https://img.shields.io/static/v1?label=Tools&message=Pandas&color=<success>&logo=pandas)
 
-
-<!-- Actual text -->
-You can find me on LinkedIn: [![LinkedIn][1.2]][2]
 <!-- Icons -->
 [1.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
 <!-- Links to your social media accounts -->
