@@ -1,4 +1,4 @@
-# Hey! 👻🐱‍👤
+# Hello! 👻🐱‍👤
 My name is Scott Kolmar, and I currently work for the United States Environmental Protection Agency. I have a PhD in inorganic chemistry from Yale with a focus on computational chemistry. I currently work in cheminformatics, computational toxicology, machine learning, statistics, and full stack programming at the EPA. Please check out some of my projects! You can find me on LinkedIn: [![LinkedIn][1.2]][2]
 
 ## &#x1f4c8; GitHub Stats
